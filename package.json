@@ -1,0 +1,22 @@
+{
+    "name": "core",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "dateformat": "^3.0.3",
+        "dotenv": "^5.0.0",
+        "express": "^4.16.2",
+        "google-auth-library": "^1.0.0",
+        "googleapis": "^25.0.0",
+        "node-wit": "^5.0.0",
+        "twitter": "^1.7.1",
+        "wikijs": "^4.5.2",
+        "yql": "^1.0.2",
+        "moment": "^2.21.0",
+        "xml2js": "^0.4.19",
+        "glob": "^7.1.2",
+        "azure-cognitiveservices-search": "^1.0.0-preview",
+        "simple-oauth2": "^1.5.2"
+    }
+}
